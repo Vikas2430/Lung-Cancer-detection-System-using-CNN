@@ -44,10 +44,6 @@ Please refer to the notebook for details on the dataset used for lung cancer det
 
 The notebook provides training accuracy, validation accuracy, and example predictions to assess model performance.
 
-## License
-
-This project is open-source and available under the MIT License.
-
 ## Author
 
 [Vikas2430](https://github.com/Vikas2430)
